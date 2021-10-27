@@ -1,7 +1,7 @@
 Portfolio
 ====
 
-就活用ポートフォリオ
+ポートフォリオ(サンプル)
 
 ## デモ
 [Webサイトを見る](https://portfolio-sample-01.herokuapp.com/)
