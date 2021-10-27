@@ -1,7 +1,7 @@
-PortfolioSample
+Portfolio
 ====
 
-ポートフォリオのサンプルです。
+就活用ポートフォリオ
 
 ## デモ
 [Webサイトを見る](https://portfolio-sample-01.herokuapp.com/)
